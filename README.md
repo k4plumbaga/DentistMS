@@ -1,5 +1,5 @@
 # DentistMS
-https://github.com/k4plumbaga/DentistMS/blob/master/pics/1.JPG
+(https://github.com/k4plumbaga/DentistMS/blob/master/pics/1.JPG)
 
 https://github.com/k4plumbaga/DentistMS/blob/master/pics/2.JPG
 
